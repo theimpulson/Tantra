@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Tantra</string>
+
+    <!-- DevicesScreen -->
+    <string name="devices">Devices</string>
+
+    <!-- MessageScreen -->
+    <string name="message">Message</string>
 </resources>
